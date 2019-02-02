@@ -19,7 +19,7 @@
         <Glen_Eden>06:00:00.000</Glen_Eden>
         <Sunnyvale>06:02:00.000</Sunnyvale>
         <Henderson>06:05:00.000</Henderson>
-        <Sturges>06:08:00.000</Sturges>
+        <Sturges_Road>06:08:00.000</Sturges_Road>
         <Ranui>06:11:00.000</Ranui>
         <Swanson>06:14:00.000</Swanson>
     </WestSeviceRow>
@@ -42,7 +42,7 @@
         <Glen_Eden>06:20:00.000</Glen_Eden>
         <Sunnyvale>06:22:00.000</Sunnyvale>
         <Henderson>06:25:00.000</Henderson>
-        <Sturges>06:28:00.000</Sturges>
+        <Sturges_Road>06:28:00.000</Sturges_Road>
         <Ranui>06:31:00.000</Ranui>
         <Swanson>06:34:00.000</Swanson>
     </WestSeviceRow>
@@ -65,7 +65,7 @@
         <Glen_Eden>06:40:00.000</Glen_Eden>
         <Sunnyvale>06:42:00.000</Sunnyvale>
         <Henderson>06:45:00.000</Henderson>
-        <Sturges>06:48:00.000</Sturges>
+        <Sturges_Road>06:48:00.000</Sturges_Road>
         <Ranui>06:51:00.000</Ranui>
         <Swanson>06:54:00.000</Swanson>
     </WestSeviceRow>
@@ -88,7 +88,7 @@
         <Glen_Eden>07:00:00.000</Glen_Eden>
         <Sunnyvale>07:02:00.000</Sunnyvale>
         <Henderson>07:05:00.000</Henderson>
-        <Sturges>07:08:00.000</Sturges>
+        <Sturges_Road>07:08:00.000</Sturges_Road>
         <Ranui>07:11:00.000</Ranui>
         <Swanson>07:14:00.000</Swanson>
     </WestSeviceRow>
@@ -111,7 +111,7 @@
         <Glen_Eden>07:10:00.000</Glen_Eden>
         <Sunnyvale>07:12:00.000</Sunnyvale>
         <Henderson>07:15:00.000</Henderson>
-        <Sturges>07:18:00.000</Sturges>
+        <Sturges_Road>07:18:00.000</Sturges_Road>
         <Ranui>07:21:00.000</Ranui>
         <Swanson>07:24:00.000</Swanson>
     </WestSeviceRow>
@@ -134,7 +134,7 @@
         <Glen_Eden>07:20:00.000</Glen_Eden>
         <Sunnyvale>07:22:00.000</Sunnyvale>
         <Henderson>07:25:00.000</Henderson>
-        <Sturges>07:28:00.000</Sturges>
+        <Sturges_Road>07:28:00.000</Sturges_Road>
         <Ranui>07:31:00.000</Ranui>
         <Swanson>07:34:00.000</Swanson>
     </WestSeviceRow>
@@ -157,7 +157,7 @@
         <Glen_Eden>07:30:00.000</Glen_Eden>
         <Sunnyvale>07:32:00.000</Sunnyvale>
         <Henderson>07:35:00.000</Henderson>
-        <Sturges>07:38:00.000</Sturges>
+        <Sturges_Road>07:38:00.000</Sturges_Road>
         <Ranui>07:41:00.000</Ranui>
         <Swanson>07:44:00.000</Swanson>
     </WestSeviceRow>
@@ -180,7 +180,7 @@
         <Glen_Eden>07:40:00.000</Glen_Eden>
         <Sunnyvale>07:42:00.000</Sunnyvale>
         <Henderson>07:45:00.000</Henderson>
-        <Sturges>07:48:00.000</Sturges>
+        <Sturges_Road>07:48:00.000</Sturges_Road>
         <Ranui>07:51:00.000</Ranui>
         <Swanson>07:54:00.000</Swanson>
     </WestSeviceRow>
@@ -203,7 +203,7 @@
         <Glen_Eden>07:50:00.000</Glen_Eden>
         <Sunnyvale>07:52:00.000</Sunnyvale>
         <Henderson>07:55:00.000</Henderson>
-        <Sturges>07:58:00.000</Sturges>
+        <Sturges_Road>07:58:00.000</Sturges_Road>
         <Ranui>08:01:00.000</Ranui>
         <Swanson>08:04:00.000</Swanson>
     </WestSeviceRow>
@@ -226,7 +226,7 @@
         <Glen_Eden>08:00:00.000</Glen_Eden>
         <Sunnyvale>08:02:00.000</Sunnyvale>
         <Henderson>08:05:00.000</Henderson>
-        <Sturges>08:08:00.000</Sturges>
+        <Sturges_Road>08:08:00.000</Sturges_Road>
         <Ranui>08:11:00.000</Ranui>
         <Swanson>08:14:00.000</Swanson>
     </WestSeviceRow>
@@ -249,7 +249,7 @@
         <Glen_Eden>08:10:00.000</Glen_Eden>
         <Sunnyvale>08:12:00.000</Sunnyvale>
         <Henderson>08:15:00.000</Henderson>
-        <Sturges>08:18:00.000</Sturges>
+        <Sturges_Road>08:18:00.000</Sturges_Road>
         <Ranui>08:21:00.000</Ranui>
         <Swanson>08:24:00.000</Swanson>
     </WestSeviceRow>
@@ -272,7 +272,7 @@
         <Glen_Eden>08:20:00.000</Glen_Eden>
         <Sunnyvale>08:22:00.000</Sunnyvale>
         <Henderson>08:25:00.000</Henderson>
-        <Sturges>08:28:00.000</Sturges>
+        <Sturges_Road>08:28:00.000</Sturges_Road>
         <Ranui>08:31:00.000</Ranui>
         <Swanson>08:34:00.000</Swanson>
     </WestSeviceRow>
@@ -295,7 +295,7 @@
         <Glen_Eden>08:30:00.000</Glen_Eden>
         <Sunnyvale>08:32:00.000</Sunnyvale>
         <Henderson>08:35:00.000</Henderson>
-        <Sturges>08:38:00.000</Sturges>
+        <Sturges_Road>08:38:00.000</Sturges_Road>
         <Ranui>08:41:00.000</Ranui>
         <Swanson>08:44:00.000</Swanson>
     </WestSeviceRow>
@@ -318,7 +318,7 @@
         <Glen_Eden>08:40:00.000</Glen_Eden>
         <Sunnyvale>08:42:00.000</Sunnyvale>
         <Henderson>08:45:00.000</Henderson>
-        <Sturges>08:48:00.000</Sturges>
+        <Sturges_Road>08:48:00.000</Sturges_Road>
         <Ranui>08:51:00.000</Ranui>
         <Swanson>08:54:00.000</Swanson>
     </WestSeviceRow>
@@ -341,7 +341,7 @@
         <Glen_Eden>08:50:00.000</Glen_Eden>
         <Sunnyvale>08:52:00.000</Sunnyvale>
         <Henderson>08:55:00.000</Henderson>
-        <Sturges>08:58:00.000</Sturges>
+        <Sturges_Road>08:58:00.000</Sturges_Road>
         <Ranui>09:01:00.000</Ranui>
         <Swanson>09:04:00.000</Swanson>
     </WestSeviceRow>
@@ -364,7 +364,7 @@
         <Glen_Eden>09:00:00.000</Glen_Eden>
         <Sunnyvale>09:02:00.000</Sunnyvale>
         <Henderson>09:05:00.000</Henderson>
-        <Sturges>09:08:00.000</Sturges>
+        <Sturges_Road>09:08:00.000</Sturges_Road>
         <Ranui>09:11:00.000</Ranui>
         <Swanson>09:14:00.000</Swanson>
     </WestSeviceRow>
@@ -387,7 +387,7 @@
         <Glen_Eden>09:10:00.000</Glen_Eden>
         <Sunnyvale>09:12:00.000</Sunnyvale>
         <Henderson>09:15:00.000</Henderson>
-        <Sturges>09:18:00.000</Sturges>
+        <Sturges_Road>09:18:00.000</Sturges_Road>
         <Ranui>09:21:00.000</Ranui>
         <Swanson>09:24:00.000</Swanson>
     </WestSeviceRow>
@@ -410,7 +410,7 @@
         <Glen_Eden>09:20:00.000</Glen_Eden>
         <Sunnyvale>09:22:00.000</Sunnyvale>
         <Henderson>09:25:00.000</Henderson>
-        <Sturges>09:28:00.000</Sturges>
+        <Sturges_Road>09:28:00.000</Sturges_Road>
         <Ranui>09:31:00.000</Ranui>
         <Swanson>09:34:00.000</Swanson>
     </WestSeviceRow>
@@ -433,7 +433,7 @@
         <Glen_Eden>09:30:00.000</Glen_Eden>
         <Sunnyvale>09:32:00.000</Sunnyvale>
         <Henderson>09:35:00.000</Henderson>
-        <Sturges>09:38:00.000</Sturges>
+        <Sturges_Road>09:38:00.000</Sturges_Road>
         <Ranui>09:41:00.000</Ranui>
         <Swanson>09:44:00.000</Swanson>
     </WestSeviceRow>
@@ -456,7 +456,7 @@
         <Glen_Eden>09:40:00.000</Glen_Eden>
         <Sunnyvale>09:42:00.000</Sunnyvale>
         <Henderson>09:45:00.000</Henderson>
-        <Sturges>09:48:00.000</Sturges>
+        <Sturges_Road>09:48:00.000</Sturges_Road>
         <Ranui>09:51:00.000</Ranui>
         <Swanson>09:54:00.000</Swanson>
     </WestSeviceRow>
@@ -479,7 +479,7 @@
         <Glen_Eden>09:50:00.000</Glen_Eden>
         <Sunnyvale>09:52:00.000</Sunnyvale>
         <Henderson>09:55:00.000</Henderson>
-        <Sturges>09:58:00.000</Sturges>
+        <Sturges_Road>09:58:00.000</Sturges_Road>
         <Ranui>10:01:00.000</Ranui>
         <Swanson>10:04:00.000</Swanson>
     </WestSeviceRow>
@@ -502,7 +502,7 @@
         <Glen_Eden>10:00:00.000</Glen_Eden>
         <Sunnyvale>10:02:00.000</Sunnyvale>
         <Henderson>10:05:00.000</Henderson>
-        <Sturges>10:08:00.000</Sturges>
+        <Sturges_Road>10:08:00.000</Sturges_Road>
         <Ranui>10:11:00.000</Ranui>
         <Swanson>10:14:00.000</Swanson>
     </WestSeviceRow>
@@ -525,7 +525,7 @@
         <Glen_Eden>10:20:00.000</Glen_Eden>
         <Sunnyvale>10:22:00.000</Sunnyvale>
         <Henderson>10:25:00.000</Henderson>
-        <Sturges>10:28:00.000</Sturges>
+        <Sturges_Road>10:28:00.000</Sturges_Road>
         <Ranui>10:31:00.000</Ranui>
         <Swanson>10:34:00.000</Swanson>
     </WestSeviceRow>
@@ -548,7 +548,7 @@
         <Glen_Eden>10:40:00.000</Glen_Eden>
         <Sunnyvale>10:42:00.000</Sunnyvale>
         <Henderson>10:45:00.000</Henderson>
-        <Sturges>10:48:00.000</Sturges>
+        <Sturges_Road>10:48:00.000</Sturges_Road>
         <Ranui>10:51:00.000</Ranui>
         <Swanson>10:54:00.000</Swanson>
     </WestSeviceRow>
@@ -571,7 +571,7 @@
         <Glen_Eden>11:00:00.000</Glen_Eden>
         <Sunnyvale>11:02:00.000</Sunnyvale>
         <Henderson>11:05:00.000</Henderson>
-        <Sturges>11:08:00.000</Sturges>
+        <Sturges_Road>11:08:00.000</Sturges_Road>
         <Ranui>11:11:00.000</Ranui>
         <Swanson>11:14:00.000</Swanson>
     </WestSeviceRow>
@@ -594,7 +594,7 @@
         <Glen_Eden>11:20:00.000</Glen_Eden>
         <Sunnyvale>11:22:00.000</Sunnyvale>
         <Henderson>11:25:00.000</Henderson>
-        <Sturges>11:28:00.000</Sturges>
+        <Sturges_Road>11:28:00.000</Sturges_Road>
         <Ranui>11:31:00.000</Ranui>
         <Swanson>11:34:00.000</Swanson>
     </WestSeviceRow>
@@ -617,7 +617,7 @@
         <Glen_Eden>11:40:00.000</Glen_Eden>
         <Sunnyvale>11:42:00.000</Sunnyvale>
         <Henderson>11:45:00.000</Henderson>
-        <Sturges>11:48:00.000</Sturges>
+        <Sturges_Road>11:48:00.000</Sturges_Road>
         <Ranui>11:51:00.000</Ranui>
         <Swanson>11:54:00.000</Swanson>
     </WestSeviceRow>
@@ -640,7 +640,7 @@
         <Glen_Eden>12:00:00.000</Glen_Eden>
         <Sunnyvale>12:02:00.000</Sunnyvale>
         <Henderson>12:05:00.000</Henderson>
-        <Sturges>12:08:00.000</Sturges>
+        <Sturges_Road>12:08:00.000</Sturges_Road>
         <Ranui>12:11:00.000</Ranui>
         <Swanson>12:14:00.000</Swanson>
     </WestSeviceRow>
@@ -663,7 +663,7 @@
         <Glen_Eden>12:20:00.000</Glen_Eden>
         <Sunnyvale>12:22:00.000</Sunnyvale>
         <Henderson>12:25:00.000</Henderson>
-        <Sturges>12:28:00.000</Sturges>
+        <Sturges_Road>12:28:00.000</Sturges_Road>
         <Ranui>12:31:00.000</Ranui>
         <Swanson>12:34:00.000</Swanson>
     </WestSeviceRow>
@@ -686,7 +686,7 @@
         <Glen_Eden>12:40:00.000</Glen_Eden>
         <Sunnyvale>12:42:00.000</Sunnyvale>
         <Henderson>12:45:00.000</Henderson>
-        <Sturges>12:48:00.000</Sturges>
+        <Sturges_Road>12:48:00.000</Sturges_Road>
         <Ranui>12:51:00.000</Ranui>
         <Swanson>12:54:00.000</Swanson>
     </WestSeviceRow>
@@ -709,7 +709,7 @@
         <Glen_Eden>13:00:00.000</Glen_Eden>
         <Sunnyvale>13:02:00.000</Sunnyvale>
         <Henderson>13:05:00.000</Henderson>
-        <Sturges>13:08:00.000</Sturges>
+        <Sturges_Road>13:08:00.000</Sturges_Road>
         <Ranui>13:11:00.000</Ranui>
         <Swanson>13:14:00.000</Swanson>
     </WestSeviceRow>
@@ -732,7 +732,7 @@
         <Glen_Eden>13:20:00.000</Glen_Eden>
         <Sunnyvale>13:22:00.000</Sunnyvale>
         <Henderson>13:25:00.000</Henderson>
-        <Sturges>13:28:00.000</Sturges>
+        <Sturges_Road>13:28:00.000</Sturges_Road>
         <Ranui>13:31:00.000</Ranui>
         <Swanson>13:34:00.000</Swanson>
     </WestSeviceRow>
@@ -755,7 +755,7 @@
         <Glen_Eden>13:40:00.000</Glen_Eden>
         <Sunnyvale>13:42:00.000</Sunnyvale>
         <Henderson>13:45:00.000</Henderson>
-        <Sturges>13:48:00.000</Sturges>
+        <Sturges_Road>13:48:00.000</Sturges_Road>
         <Ranui>13:51:00.000</Ranui>
         <Swanson>13:54:00.000</Swanson>
     </WestSeviceRow>
@@ -778,7 +778,7 @@
         <Glen_Eden>14:00:00.000</Glen_Eden>
         <Sunnyvale>14:02:00.000</Sunnyvale>
         <Henderson>14:05:00.000</Henderson>
-        <Sturges>14:08:00.000</Sturges>
+        <Sturges_Road>14:08:00.000</Sturges_Road>
         <Ranui>14:11:00.000</Ranui>
         <Swanson>14:14:00.000</Swanson>
     </WestSeviceRow>
@@ -801,7 +801,7 @@
         <Glen_Eden>14:20:00.000</Glen_Eden>
         <Sunnyvale>14:22:00.000</Sunnyvale>
         <Henderson>14:25:00.000</Henderson>
-        <Sturges>14:28:00.000</Sturges>
+        <Sturges_Road>14:28:00.000</Sturges_Road>
         <Ranui>14:31:00.000</Ranui>
         <Swanson>14:34:00.000</Swanson>
     </WestSeviceRow>
@@ -824,7 +824,7 @@
         <Glen_Eden>14:40:00.000</Glen_Eden>
         <Sunnyvale>14:42:00.000</Sunnyvale>
         <Henderson>14:45:00.000</Henderson>
-        <Sturges>14:48:00.000</Sturges>
+        <Sturges_Road>14:48:00.000</Sturges_Road>
         <Ranui>14:51:00.000</Ranui>
         <Swanson>14:54:00.000</Swanson>
     </WestSeviceRow>
@@ -847,7 +847,7 @@
         <Glen_Eden>15:00:00.000</Glen_Eden>
         <Sunnyvale>15:02:00.000</Sunnyvale>
         <Henderson>15:05:00.000</Henderson>
-        <Sturges>15:08:00.000</Sturges>
+        <Sturges_Road>15:08:00.000</Sturges_Road>
         <Ranui>15:11:00.000</Ranui>
         <Swanson>15:14:00.000</Swanson>
     </WestSeviceRow>
@@ -870,7 +870,7 @@
         <Glen_Eden>15:20:00.000</Glen_Eden>
         <Sunnyvale>15:22:00.000</Sunnyvale>
         <Henderson>15:25:00.000</Henderson>
-        <Sturges>15:28:00.000</Sturges>
+        <Sturges_Road>15:28:00.000</Sturges_Road>
         <Ranui>15:31:00.000</Ranui>
         <Swanson>15:34:00.000</Swanson>
     </WestSeviceRow>
@@ -893,7 +893,7 @@
         <Glen_Eden>15:40:00.000</Glen_Eden>
         <Sunnyvale>15:42:00.000</Sunnyvale>
         <Henderson>15:45:00.000</Henderson>
-        <Sturges>15:48:00.000</Sturges>
+        <Sturges_Road>15:48:00.000</Sturges_Road>
         <Ranui>15:51:00.000</Ranui>
         <Swanson>15:54:00.000</Swanson>
     </WestSeviceRow>
@@ -916,7 +916,7 @@
         <Glen_Eden>15:50:00.000</Glen_Eden>
         <Sunnyvale>15:52:00.000</Sunnyvale>
         <Henderson>15:55:00.000</Henderson>
-        <Sturges>15:58:00.000</Sturges>
+        <Sturges_Road>15:58:00.000</Sturges_Road>
         <Ranui>16:01:00.000</Ranui>
         <Swanson>16:04:00.000</Swanson>
     </WestSeviceRow>
@@ -939,7 +939,7 @@
         <Glen_Eden>16:00:00.000</Glen_Eden>
         <Sunnyvale>16:02:00.000</Sunnyvale>
         <Henderson>16:05:00.000</Henderson>
-        <Sturges>16:08:00.000</Sturges>
+        <Sturges_Road>16:08:00.000</Sturges_Road>
         <Ranui>16:11:00.000</Ranui>
         <Swanson>16:14:00.000</Swanson>
     </WestSeviceRow>
@@ -962,7 +962,7 @@
         <Glen_Eden>16:10:00.000</Glen_Eden>
         <Sunnyvale>16:12:00.000</Sunnyvale>
         <Henderson>16:15:00.000</Henderson>
-        <Sturges>16:18:00.000</Sturges>
+        <Sturges_Road>16:18:00.000</Sturges_Road>
         <Ranui>16:21:00.000</Ranui>
         <Swanson>16:24:00.000</Swanson>
     </WestSeviceRow>
@@ -985,7 +985,7 @@
         <Glen_Eden>16:20:00.000</Glen_Eden>
         <Sunnyvale>16:22:00.000</Sunnyvale>
         <Henderson>16:25:00.000</Henderson>
-        <Sturges>16:28:00.000</Sturges>
+        <Sturges_Road>16:28:00.000</Sturges_Road>
         <Ranui>16:31:00.000</Ranui>
         <Swanson>16:34:00.000</Swanson>
     </WestSeviceRow>
@@ -1008,7 +1008,7 @@
         <Glen_Eden>16:30:00.000</Glen_Eden>
         <Sunnyvale>16:32:00.000</Sunnyvale>
         <Henderson>16:35:00.000</Henderson>
-        <Sturges>16:38:00.000</Sturges>
+        <Sturges_Road>16:38:00.000</Sturges_Road>
         <Ranui>16:41:00.000</Ranui>
         <Swanson>16:44:00.000</Swanson>
     </WestSeviceRow>
@@ -1031,7 +1031,7 @@
         <Glen_Eden>16:40:00.000</Glen_Eden>
         <Sunnyvale>16:42:00.000</Sunnyvale>
         <Henderson>16:45:00.000</Henderson>
-        <Sturges>16:48:00.000</Sturges>
+        <Sturges_Road>16:48:00.000</Sturges_Road>
         <Ranui>16:51:00.000</Ranui>
         <Swanson>16:54:00.000</Swanson>
     </WestSeviceRow>
@@ -1054,7 +1054,7 @@
         <Glen_Eden>16:50:00.000</Glen_Eden>
         <Sunnyvale>16:52:00.000</Sunnyvale>
         <Henderson>16:55:00.000</Henderson>
-        <Sturges>16:58:00.000</Sturges>
+        <Sturges_Road>16:58:00.000</Sturges_Road>
         <Ranui>17:01:00.000</Ranui>
         <Swanson>17:04:00.000</Swanson>
     </WestSeviceRow>
@@ -1077,7 +1077,7 @@
         <Glen_Eden>17:00:00.000</Glen_Eden>
         <Sunnyvale>17:02:00.000</Sunnyvale>
         <Henderson>17:05:00.000</Henderson>
-        <Sturges>17:08:00.000</Sturges>
+        <Sturges_Road>17:08:00.000</Sturges_Road>
         <Ranui>17:11:00.000</Ranui>
         <Swanson>17:14:00.000</Swanson>
     </WestSeviceRow>
@@ -1100,7 +1100,7 @@
         <Glen_Eden>17:10:00.000</Glen_Eden>
         <Sunnyvale>17:12:00.000</Sunnyvale>
         <Henderson>17:15:00.000</Henderson>
-        <Sturges>17:18:00.000</Sturges>
+        <Sturges_Road>17:18:00.000</Sturges_Road>
         <Ranui>17:21:00.000</Ranui>
         <Swanson>17:24:00.000</Swanson>
     </WestSeviceRow>
@@ -1123,7 +1123,7 @@
         <Glen_Eden>17:20:00.000</Glen_Eden>
         <Sunnyvale>17:22:00.000</Sunnyvale>
         <Henderson>17:25:00.000</Henderson>
-        <Sturges>17:28:00.000</Sturges>
+        <Sturges_Road>17:28:00.000</Sturges_Road>
         <Ranui>17:31:00.000</Ranui>
         <Swanson>17:34:00.000</Swanson>
     </WestSeviceRow>
@@ -1146,7 +1146,7 @@
         <Glen_Eden>17:30:00.000</Glen_Eden>
         <Sunnyvale>17:32:00.000</Sunnyvale>
         <Henderson>17:35:00.000</Henderson>
-        <Sturges>17:38:00.000</Sturges>
+        <Sturges_Road>17:38:00.000</Sturges_Road>
         <Ranui>17:41:00.000</Ranui>
         <Swanson>17:44:00.000</Swanson>
     </WestSeviceRow>
@@ -1169,7 +1169,7 @@
         <Glen_Eden>17:40:00.000</Glen_Eden>
         <Sunnyvale>17:42:00.000</Sunnyvale>
         <Henderson>17:45:00.000</Henderson>
-        <Sturges>17:48:00.000</Sturges>
+        <Sturges_Road>17:48:00.000</Sturges_Road>
         <Ranui>17:51:00.000</Ranui>
         <Swanson>17:54:00.000</Swanson>
     </WestSeviceRow>
@@ -1192,7 +1192,7 @@
         <Glen_Eden>17:50:00.000</Glen_Eden>
         <Sunnyvale>17:52:00.000</Sunnyvale>
         <Henderson>17:55:00.000</Henderson>
-        <Sturges>17:58:00.000</Sturges>
+        <Sturges_Road>17:58:00.000</Sturges_Road>
         <Ranui>18:01:00.000</Ranui>
         <Swanson>18:04:00.000</Swanson>
     </WestSeviceRow>
@@ -1215,7 +1215,7 @@
         <Glen_Eden>18:00:00.000</Glen_Eden>
         <Sunnyvale>18:02:00.000</Sunnyvale>
         <Henderson>18:05:00.000</Henderson>
-        <Sturges>18:08:00.000</Sturges>
+        <Sturges_Road>18:08:00.000</Sturges_Road>
         <Ranui>18:11:00.000</Ranui>
         <Swanson>18:14:00.000</Swanson>
     </WestSeviceRow>
@@ -1238,7 +1238,7 @@
         <Glen_Eden>18:10:00.000</Glen_Eden>
         <Sunnyvale>18:12:00.000</Sunnyvale>
         <Henderson>18:15:00.000</Henderson>
-        <Sturges>18:18:00.000</Sturges>
+        <Sturges_Road>18:18:00.000</Sturges_Road>
         <Ranui>18:21:00.000</Ranui>
         <Swanson>18:24:00.000</Swanson>
     </WestSeviceRow>
@@ -1261,7 +1261,7 @@
         <Glen_Eden>18:20:00.000</Glen_Eden>
         <Sunnyvale>18:22:00.000</Sunnyvale>
         <Henderson>18:25:00.000</Henderson>
-        <Sturges>18:28:00.000</Sturges>
+        <Sturges_Road>18:28:00.000</Sturges_Road>
         <Ranui>18:31:00.000</Ranui>
         <Swanson>18:34:00.000</Swanson>
     </WestSeviceRow>
@@ -1284,7 +1284,7 @@
         <Glen_Eden>18:30:00.000</Glen_Eden>
         <Sunnyvale>18:32:00.000</Sunnyvale>
         <Henderson>18:35:00.000</Henderson>
-        <Sturges>18:38:00.000</Sturges>
+        <Sturges_Road>18:38:00.000</Sturges_Road>
         <Ranui>18:41:00.000</Ranui>
         <Swanson>18:44:00.000</Swanson>
     </WestSeviceRow>
@@ -1307,7 +1307,7 @@
         <Glen_Eden>18:40:00.000</Glen_Eden>
         <Sunnyvale>18:42:00.000</Sunnyvale>
         <Henderson>18:45:00.000</Henderson>
-        <Sturges>18:48:00.000</Sturges>
+        <Sturges_Road>18:48:00.000</Sturges_Road>
         <Ranui>18:51:00.000</Ranui>
         <Swanson>18:54:00.000</Swanson>
     </WestSeviceRow>
@@ -1330,7 +1330,7 @@
         <Glen_Eden>18:50:00.000</Glen_Eden>
         <Sunnyvale>18:52:00.000</Sunnyvale>
         <Henderson>18:55:00.000</Henderson>
-        <Sturges>18:58:00.000</Sturges>
+        <Sturges_Road>18:58:00.000</Sturges_Road>
         <Ranui>19:01:00.000</Ranui>
         <Swanson>19:04:00.000</Swanson>
     </WestSeviceRow>
@@ -1353,7 +1353,7 @@
         <Glen_Eden>19:00:00.000</Glen_Eden>
         <Sunnyvale>19:02:00.000</Sunnyvale>
         <Henderson>19:05:00.000</Henderson>
-        <Sturges>19:08:00.000</Sturges>
+        <Sturges_Road>19:08:00.000</Sturges_Road>
         <Ranui>19:11:00.000</Ranui>
         <Swanson>19:14:00.000</Swanson>
     </WestSeviceRow>
@@ -1376,7 +1376,7 @@
         <Glen_Eden>19:10:00.000</Glen_Eden>
         <Sunnyvale>19:12:00.000</Sunnyvale>
         <Henderson>19:15:00.000</Henderson>
-        <Sturges>19:18:00.000</Sturges>
+        <Sturges_Road>19:18:00.000</Sturges_Road>
         <Ranui>19:21:00.000</Ranui>
         <Swanson>19:24:00.000</Swanson>
     </WestSeviceRow>
@@ -1399,7 +1399,7 @@
         <Glen_Eden>19:20:00.000</Glen_Eden>
         <Sunnyvale>19:22:00.000</Sunnyvale>
         <Henderson>19:25:00.000</Henderson>
-        <Sturges>19:28:00.000</Sturges>
+        <Sturges_Road>19:28:00.000</Sturges_Road>
         <Ranui>19:31:00.000</Ranui>
         <Swanson>19:34:00.000</Swanson>
     </WestSeviceRow>
@@ -1422,7 +1422,7 @@
         <Glen_Eden>19:30:00.000</Glen_Eden>
         <Sunnyvale>19:32:00.000</Sunnyvale>
         <Henderson>19:35:00.000</Henderson>
-        <Sturges>19:38:00.000</Sturges>
+        <Sturges_Road>19:38:00.000</Sturges_Road>
         <Ranui>19:41:00.000</Ranui>
         <Swanson>19:44:00.000</Swanson>
     </WestSeviceRow>
@@ -1445,7 +1445,7 @@
         <Glen_Eden>19:40:00.000</Glen_Eden>
         <Sunnyvale>19:42:00.000</Sunnyvale>
         <Henderson>19:45:00.000</Henderson>
-        <Sturges>19:48:00.000</Sturges>
+        <Sturges_Road>19:48:00.000</Sturges_Road>
         <Ranui>19:51:00.000</Ranui>
         <Swanson>19:54:00.000</Swanson>
     </WestSeviceRow>
@@ -1468,7 +1468,7 @@
         <Glen_Eden>19:50:00.000</Glen_Eden>
         <Sunnyvale>19:52:00.000</Sunnyvale>
         <Henderson>19:55:00.000</Henderson>
-        <Sturges>19:58:00.000</Sturges>
+        <Sturges_Road>19:58:00.000</Sturges_Road>
         <Ranui>20:01:00.000</Ranui>
         <Swanson>20:04:00.000</Swanson>
     </WestSeviceRow>
@@ -1491,7 +1491,7 @@
         <Glen_Eden>20:10:00.000</Glen_Eden>
         <Sunnyvale>20:12:00.000</Sunnyvale>
         <Henderson>20:15:00.000</Henderson>
-        <Sturges>20:18:00.000</Sturges>
+        <Sturges_Road>20:18:00.000</Sturges_Road>
         <Ranui>20:21:00.000</Ranui>
         <Swanson>20:24:00.000</Swanson>
     </WestSeviceRow>
@@ -1514,7 +1514,7 @@
         <Glen_Eden>20:30:00.000</Glen_Eden>
         <Sunnyvale>20:32:00.000</Sunnyvale>
         <Henderson>20:35:00.000</Henderson>
-        <Sturges>20:38:00.000</Sturges>
+        <Sturges_Road>20:38:00.000</Sturges_Road>
         <Ranui>20:41:00.000</Ranui>
         <Swanson>20:44:00.000</Swanson>
     </WestSeviceRow>
@@ -1537,7 +1537,7 @@
         <Glen_Eden>20:50:00.000</Glen_Eden>
         <Sunnyvale>20:52:00.000</Sunnyvale>
         <Henderson>20:55:00.000</Henderson>
-        <Sturges>20:58:00.000</Sturges>
+        <Sturges_Road>20:58:00.000</Sturges_Road>
         <Ranui>21:01:00.000</Ranui>
         <Swanson>21:04:00.000</Swanson>
     </WestSeviceRow>
@@ -1560,7 +1560,7 @@
         <Glen_Eden>21:20:00.000</Glen_Eden>
         <Sunnyvale>21:22:00.000</Sunnyvale>
         <Henderson>21:25:00.000</Henderson>
-        <Sturges>21:28:00.000</Sturges>
+        <Sturges_Road>21:28:00.000</Sturges_Road>
         <Ranui>21:31:00.000</Ranui>
         <Swanson>21:34:00.000</Swanson>
     </WestSeviceRow>
@@ -1583,7 +1583,7 @@
         <Glen_Eden>21:50:00.000</Glen_Eden>
         <Sunnyvale>21:52:00.000</Sunnyvale>
         <Henderson>21:55:00.000</Henderson>
-        <Sturges>21:58:00.000</Sturges>
+        <Sturges_Road>21:58:00.000</Sturges_Road>
         <Ranui>22:01:00.000</Ranui>
         <Swanson>22:04:00.000</Swanson>
     </WestSeviceRow>
@@ -1606,7 +1606,7 @@
         <Glen_Eden>22:20:00.000</Glen_Eden>
         <Sunnyvale>22:22:00.000</Sunnyvale>
         <Henderson>22:25:00.000</Henderson>
-        <Sturges>22:28:00.000</Sturges>
+        <Sturges_Road>22:28:00.000</Sturges_Road>
         <Ranui>22:31:00.000</Ranui>
         <Swanson>22:34:00.000</Swanson>
     </WestSeviceRow>
@@ -1629,7 +1629,7 @@
         <Glen_Eden>22:50:00.000</Glen_Eden>
         <Sunnyvale>22:52:00.000</Sunnyvale>
         <Henderson>22:55:00.000</Henderson>
-        <Sturges>22:58:00.000</Sturges>
+        <Sturges_Road>22:58:00.000</Sturges_Road>
         <Ranui>23:01:00.000</Ranui>
         <Swanson>23:04:00.000</Swanson>
     </WestSeviceRow>
@@ -3145,7 +3145,7 @@
         <Remuera>22:28:00.000</Remuera>
         <Greenlane>22:30:00.000</Greenlane>
         <Ellerslie>22:33:00.000</Ellerslie>
-        <Penrose>22:35:00.000</Penrose>
+        <Penrose>22:35:00.000</Penrose>5277
         <Te_Papapa>22:38:00.000</Te_Papapa>
         <Onehunga>22:41:00.000</Onehunga>
     </OnehungaSeviceRow>
