@@ -57,9 +57,7 @@ import java.net.URL
 //                     reader.close()
                     
 //                    All of this above code can be written in a more Kotlin way as below
-                    connection.inputStream.buffered().reader().use {reader ->
-                        xmlResult.append(reader.readText())
-                        }
+                    connection.inputStream.buffered().reader().use { xmlResult.append(it.readText()) }
                                         
 //                    Closing the bufferedReader will close the InputStreamReader and the connection
 
