@@ -19,6 +19,11 @@ import java.net.URL
 
 
             private fun downloadXml(urlPath: String?): String {
+                        
+//                This whole function can be replaced by a single line of code
+//                  return  URL(fileUrl).readText()
+                        
+                        
                 val xmlResult = StringBuilder()
 
                 try {
